@@ -1,0 +1,34 @@
+_____newCasesBySpecimenDateChange_____
+The difference between the number of new cases during the latest 7-day period and the number for the previous, non-overlapping, 7-day period. 
+Data are shown by the date the sample was taken from the person being tested.
+Data for the most recent days are considered incomplete as it takes time for tests to have an outcome and be recorded on relevant lab systems.
+
+
+_____newCasesBySpecimenDateChangePercentage_____
+The percentage change in the number of new cases during the latest 7-day period, as a percentage of the number for the previous, non-overlapping, 7-day period.
+Data are shown by the date the sample was taken from the person being tested.
+Data for the most recent days are considered incomplete as it takes time for tests to have an outcome and be recorded on relevant lab systems.
+Data are updated Monday to Friday.
+
+
+_____newCasesBySpecimenDateDirection_____
+The direction of the change in the number of new cases during the latest 7-day period compared to the previous, non-overlapping 7-day period.
+Data are shown by the date the sample was taken from the person being tested.
+Positive changes (shown with an up arrow) mean numbers are increasing.
+Negative changes (shown with a down arrow) mean numbers are decreasing.
+Data for the most recent days are considered incomplete as it takes time for tests to have an outcome and be recorded on relevant lab systems.
+Data are updated Monday to Friday.
+
+
+_____newCasesBySpecimenDateRollingRate_____
+Rate per 100,000 people of the number of new cases in the rolling 7-day period ending on the dates shown. 
+Data are shown by the date the sample was taken from the person being tested.
+Data for the most recent days are considered incomplete as it takes time for tests to have an outcome and be recorded on relevant lab systems.
+Data are updated Monday to Friday.
+
+
+_____newCasesBySpecimenDateRollingSum_____
+The number of new cases within rolling 7-day periods.
+Data are shown by the date the sample was taken from the person being tested.
+Data for the most recent days are considered incomplete as it takes time for tests to have an outcome and be recorded on relevant lab systems.
+Data are updated Monday to Friday.
